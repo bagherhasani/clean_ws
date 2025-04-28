@@ -1,0 +1,2 @@
+set(tracer_msgs_MESSAGE_FILES "/home/baqer/clean_ws/src/tracer_ros/tracer_msgs/msg/TracerMotorState.msg;/home/baqer/clean_ws/src/tracer_ros/tracer_msgs/msg/UartTracerMotorState.msg;/home/baqer/clean_ws/src/tracer_ros/tracer_msgs/msg/TracerLightState.msg;/home/baqer/clean_ws/src/tracer_ros/tracer_msgs/msg/TracerLightCmd.msg;/home/baqer/clean_ws/src/tracer_ros/tracer_msgs/msg/TracerStatus.msg;/home/baqer/clean_ws/src/tracer_ros/tracer_msgs/msg/TracerRsStatus.msg;/home/baqer/clean_ws/src/tracer_ros/tracer_msgs/msg/UartTracerStatus.msg")
+set(tracer_msgs_SERVICE_FILES "")
